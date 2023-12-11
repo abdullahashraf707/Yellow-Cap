@@ -1,0 +1,16 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.hove:hover{
+    background-color: black;
+}
+.cabs{
+    background-color: orange;
+    border-left: 5px solid black;
+}
+.cabs:hover{
+    background-color: black;
+    color: white;
+    border-left:5px solid orange ;
+}
